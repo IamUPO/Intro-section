@@ -14,7 +14,7 @@ This is a solution to the [Intro section with dropdown navigation challenge on F
 
 ## View Live
 
-You can view the live version of this project on GitHub Pages: [Intro Sction]https://iamupo.github.io/age-calculator/)
+You can view the live version of this project on GitHub Pages: [Intro Sction](https://iamupo.github.io/Intro-section/)
 
 ## Connect with Me
 
